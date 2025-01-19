@@ -10,5 +10,7 @@ Features :
 Technologies Used :
 
 a) Programming Language: C++
+
 b) Database: MySQL
+
 c) Libraries/Frameworks: MySQL Connector for C++
